@@ -7,5 +7,6 @@
         android:category="other"
         android:description="@string/app_name">
         <aid-filter android:name="A000000743CC843413925E20C59B0100" />
+        <aid-prefix-filter android:name="A000000743" />
     </aid-group>
 </host-apdu-service>

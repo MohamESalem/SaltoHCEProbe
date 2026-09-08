@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="SALTO HCE Probe V2"
+        android:label="SALTO HCE Probe V3"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
