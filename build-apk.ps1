@@ -1,0 +1,5 @@
+Write-Host "SALTO HCE Probe - local build helper"
+Write-Host "Open the project in Android Studio, wait for Gradle Sync, then run:"
+Write-Host "  Build > Build App Bundle(s) / APK(s) > Build APK(s)"
+Write-Host ""
+Write-Host "APK output: app\build\outputs\apk\debug\app-debug.apk"
